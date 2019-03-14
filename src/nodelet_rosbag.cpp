@@ -1,4 +1,5 @@
 #include <boost/foreach.hpp>
+#include <boost/utility/in_place_factory.hpp>
 #include <pluginlib/class_list_macros.h>
 #include <ros/ros.h>
 #include <rosbag/view.h>
